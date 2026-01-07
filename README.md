@@ -96,7 +96,7 @@ jupyter notebook Project1_vision.ipynb
 
 ---
 
-## 📊 Results & Observations
+##  Results & Observations
 
 * Visual features capture **shape and texture information**
 * Performance depends heavily on:
@@ -133,8 +133,3 @@ jupyter notebook Project1_vision.ipynb
 Electrical & Computer Engineering
 Computer Vision Coursework
 
-
-
-
-
-Just tell me 👍
