@@ -135,8 +135,8 @@ jupyter notebook Project1_vision.ipynb
 * **Asma’a Abdalrahman Shejaeya** — Student ID: 1210084  
   GitHub: https://github.com/AsmaaShejaeya
 
-* **Khaled Azmi Rimawi** — Student ID: 1210618  
-  GitHub: https://github.com/KhaledRimawi
+* **Aya Fares** — Student ID: 1222654 
+  GitHub: https://github.com/AyaF2005
 
 Department of Electrical & Computer Engineering  
 Birzeit University
